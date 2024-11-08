@@ -97,4 +97,4 @@
 ### Support :
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/rheinsullivan"> <img margin-left="20px" align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rheinsullivan" /></a><a href="https://ko-fi.com/rheinsullivan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rheinsullivan" /></a></div><br><br>
+<a href="https://www.buymeacoffee.com/buymeacoffee.com/rheinsullivan"> <img margin-left="20px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rheinsullivan" /></a><a href="https://ko-fi.com/rheinsullivan"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rheinsullivan" /></a></div><br><br>
