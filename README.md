@@ -1,6 +1,6 @@
 # Hi 👋 Assalamu'alaikum, What's up?
 
-### `I'm Muhammad Rizky Ramadhan (Rhein Sullivan) <Frontend Developer/>`
+### `<Fullstack Developer>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</Fullstack Developer>`
 
 ### About Me :
 
@@ -96,5 +96,5 @@
 
 ### Support :
 
-<div align="center">
+<div align="left">
 <a href="https://www.buymeacoffee.com/buymeacoffee.com/rheinsullivan"> <img margin-left="20px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rheinsullivan" /></a><a href="https://ko-fi.com/rheinsullivan"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rheinsullivan" /></a></div><br><br>
