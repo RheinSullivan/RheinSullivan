@@ -80,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
-###
+### More info :
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/>
@@ -96,5 +96,5 @@
 
 ### Support :
 
-<div align="left">
+<div align="center">
 <a href="https://www.buymeacoffee.com/buymeacoffee.com/rheinsullivan"> <img margin-left="20px" align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rheinsullivan" /></a><a href="https://ko-fi.com/rheinsullivan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rheinsullivan" /></a></div><br><br>
