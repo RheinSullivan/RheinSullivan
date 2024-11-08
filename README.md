@@ -11,23 +11,6 @@
 - 📄 Know about my experiences [https://rheinsullivan-vuejs.vercel.app/](https://rheinsullivan-vuejs.vercel.app/)
 - 📫 How to reach me **rheinsullivan06@gmail.com**
 
-### Connect with Me :
-
-<div align="left">
-    <a href="https://linkedin.com/in/rheinsullivan30" target="blank" style="text-decoration: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rheinsullivan30" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/rhein.sullivan666" target="blank" style="text-decoration: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhein.sullivan666" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/@rheinsullivan" target="blank" style="text-decoration: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rheinsullivan" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/rheinsullivan" target="blank" style="text-decoration: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rheinsullivan" height="30" width="40" />
-    </a>
-</div>
-
 ### Tech Stack :
 
 <div align="left">
