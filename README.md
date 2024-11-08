@@ -100,13 +100,13 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="github stats"/>
 <br/>
 <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheinSullivan&theme=tokyonight&hide_border=false" alt="github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RheinSullivan&theme=radical&locale=id&date_format=j%20M%5B%20Y%5D" alt="github stats"/>
 </div>
 
 ###
