@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJS, NestJS, PHP, Laravel, and become a better person**
 - 👯 I’m looking to collaborate on **Website Company Profile 7TogkID & Denasty Studio**
 - 👨‍💻 All of my projects are available at [Rhein Sullivan | Studend and Junior Fullstack Developer](https://rheinsullivan.web.id/)
-- 📄 Know about my experiences [https://rheinsullivan-vuejs.vercel.app/](https://rheinsullivan-vuejs.vercel.app/)
+- 📄 Know about my experiences [Rhein Sullivan VueJs](https://rheinsullivan-vuejs.vercel.app/)
 - 📫 How to reach me **rheinsullivan06@gmail.com**
 
 ### Tech Stack :
