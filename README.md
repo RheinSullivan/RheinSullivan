@@ -1,10 +1,6 @@
-# Hi 👋 Assalamu'alaikum, What's up?
+# Hi Assalamu'alaikum, What's up? 👋
 
-### 
-<Fullstack Developer>
-  I'm Muhammad Rizky Ramadhan (Rhein Sullivan)
-</Fullstack Developer>
-###
+### `<Fullstack Developer> I'm Muhammad Rizky Ramadhan (Rhein Sullivan) </Fullstack Developer>`
 
 ### About Me :
 
