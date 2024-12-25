@@ -2,7 +2,7 @@
 
 ```bash
 <Fullstack Developer>
-    I'm Muhammad Rizky Ramadhan (Rhein Sullivan)
+    Iam Muhammad Rizky Ramadhan (Rhein Sullivan)
 </Fullstack Developer>
 ```
 
