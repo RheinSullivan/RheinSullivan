@@ -106,7 +106,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=RheinSullivan&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-###
+### ``` I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light, carrying a dream that never dies. ```
 
 ### Support :
 
