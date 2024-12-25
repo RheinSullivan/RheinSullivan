@@ -107,7 +107,7 @@
 </div>
 
 ### My Quotes:
-# 1. I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light, carrying a dream that never dies.
+## I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light, carrying a dream that never dies.
 
 ### Support :
 
