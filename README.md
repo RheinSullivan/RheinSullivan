@@ -1,6 +1,8 @@
 # Hi Assalamu'alaikum, What's up? 👋🏻
 
-## <Fullstack Developer>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</Fullstack Developer>
+## ```bash
+<Fullstack Developer>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</Fullstack Developer>
+```
 
 ### About Me :
 
