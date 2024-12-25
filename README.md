@@ -83,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo"  />
 </div>
 
-### Database :
+### Database I Use:
 
 <div align="left"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -94,7 +94,7 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
-### More info :
+### Github Stats :
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/>
@@ -107,8 +107,8 @@
 </div>
 
 ### My Quotes:
-``` <p>I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light, carrying a dream that never dies.</p>
-<p>Sin does not define who I am, but how I rise from it. Darkness is where I learn to light my own path.</p> ```
+''' <p>I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light, carrying a dream that never dies.</p>
+<p>Sin does not define who I am, but how I rise from it. Darkness is where I learn to light my own path.</p> '''
 
 ### Support :
 
