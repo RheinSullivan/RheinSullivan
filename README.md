@@ -2,7 +2,7 @@
 
 ```bash
 <Fullstack Developer>I'm Muhammad Rizky Ramadhan
-(Rhein Sullivan)</Fullstack Developer>
+(Rhein Sullivan)<Fullstack Developer>
 ```
 
 ### About Me :
