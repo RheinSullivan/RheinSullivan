@@ -1,6 +1,6 @@
 # Hi Assalamu'alaikum, What's up? 👋🏻
 
-##<Fullstack Developer>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</Fullstack Developer>
+## <Fullstack Developer>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</Fullstack Developer>
 
 ### About Me :
 
@@ -47,6 +47,8 @@
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ### Tools :
