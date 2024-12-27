@@ -112,8 +112,8 @@
 
 ### My Quotes:
 ```bash
-I may be a sinner, but I know God always opens the door for those who want to change. In the darkness, I walk towards the light,
-carrying a dream that never dies.
+I may be a sinner, but I know God always opens the door for those who want to change. In the darkness,
+I walk towards the light, carrying a dream that never dies.
 
 Sin does not define who I am, but how I rise from it. Darkness is where I learn to light my own path.
 ```
