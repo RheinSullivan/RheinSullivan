@@ -104,10 +104,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RheinSullivan&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheinSullivan&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### My Quotes:
