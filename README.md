@@ -100,7 +100,7 @@
 
 ### Github Stats :
 
-<div align="center">
+<div align="center">![RheinSullivan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
   <br/>
   <br/>
