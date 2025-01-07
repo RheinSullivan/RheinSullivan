@@ -100,8 +100,8 @@
 
 ### Github Stats :
 
-<div align="center">![RheinSullivan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
