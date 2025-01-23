@@ -105,13 +105,13 @@
 ### Github Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=calm&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=calm&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheinSullivan&theme=calm&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheinSullivan&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### My Quotes:
