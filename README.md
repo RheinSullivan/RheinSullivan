@@ -8,9 +8,9 @@
 
 ### About Me :
 
-- 🔭 I’m currently working on [Frontend SSO Great System UMC](https://greatsys-umc.vercel.app/)
-- 🌱 I’m currently learning **NextJS, NestJS, PHP, Laravel, and become a better person**
-- 👯 I’m looking to collaborate on **Website Company Profile 7TogkID & Denasty Studio**
+- 🔭 I’m currently working on [E-Learning SMP Negeri 4 Palimanana](https://???/)
+- 🌱 I’m currently learning **Astro.js, Hono, PHP, Laravel, and become a better person**
+- 👯 I’m looking to collaborate on **Website Company Profile 7TogkID & PT SGN**
 - 👨‍💻 All of my projects are available at [Rhein Sullivan | Studend and Junior Fullstack Developer](https://rheinsullivan.web.id/)
 - 📄 Know about my experiences [Rhein Sullivan VueJs](https://rheinsullivan-vuejs.vercel.app/)
 - 📫 How to reach me **rheinsullivan06@gmail.com**
@@ -87,6 +87,8 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobe premier logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ### Database I Use:
@@ -98,6 +100,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ### Github Stats :
@@ -113,6 +117,7 @@
 </div>
 
 ### My Quotes:
+
 ```bash
 I may be a sinner, but I know God always opens the door for those who want to change. In the darkness,
 I walk towards the light, carrying a dream that never dies.
