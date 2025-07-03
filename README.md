@@ -8,12 +8,12 @@
 
 ### About Me :
 
-- 🔭 I’m currently working on [E-Learning SMP Negeri 4 Palimanan](https://???/) & [7TogkID](https://7togk.id/)
-- 🌱 I’m currently learning **Astro.js, Hono, PHP, Laravel, and become a better person**
-- 👯 I’m looking to collaborate on **Website Company Profile 7TogkID & PT SGN**
-- 👨‍💻 All of my projects are available at [Rhein Sullivan | Studend and Junior Fullstack Developer](https://rheinsullivan.web.id/)
-- 📄 Know about my experiences [Rhein Sullivan VueJs](https://rheinsullivan-vuejs.vercel.app/)
-- 📫 How to reach me **rheinsullivan06@gmail.com**
+- 🔭 I’m currently working on [E-Learning SMP Negeri 4 Palimanan](https://???/) & [7TogkID](https://7togk.id/).
+- 🌱 I’m currently learning **Astro.js, Hono, PHP, Laravel, and become a better person**.
+- 👯 I’m looking to collaborate on **Website Company Profile 7TogkID & PT SGN**.
+- 👨‍💻 All of my projects are available at [Rhein Sullivan | Student and Junior Fullstack Developer](https://rheinsullivan.web.id/).
+- 📄 Know about my experiences [Rhein Sullivan VueJs](https://rheinsullivan.my.id/).
+- 📫 How to reach me **rheinsullivan06@gmail.com**.
 
 ### Tech Stack :
 
