@@ -1,9 +1,7 @@
 # Hi Assalamu'alaikum, What's up? 👋🏻
 
 ```bash
-<Fullstack Developer>
-  My name is, Muhammad Rizky Ramadhan Rhein Sullivan
-</Fullstack Developer>
+<Fullstack Developer> My name is, Muhammad Rizky Ramadhan Rhein Sullivan </Fullstack Developer>
 ```
 
 ### About Me :
