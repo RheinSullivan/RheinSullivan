@@ -91,7 +91,8 @@
 
 ### Database I Use:
 
-<div align="left"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -102,6 +103,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
+###
 [![An image of @rheinsullivan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rheinsullivan)](https://holopin.io/@rheinsullivan)
 
 ### Github Stats :
