@@ -105,6 +105,7 @@
 ### Github Stats :
 
 <div align="center">
+  [![An image of @rheinsullivan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rheinsullivan)](https://holopin.io/@rheinsullivan)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
   <br/>
   <br/>
