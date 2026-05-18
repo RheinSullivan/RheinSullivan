@@ -107,9 +107,14 @@
 [![An image of @rheinsullivan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rheinsullivan)](https://holopin.io/@rheinsullivan)
 
 ### Github Stats:
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-  ![](https://github-readme-stats.shion.dev/api?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=RheinSullivan&theme=react&hide_border=true)
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=RheinSullivan&theme=react&hide_border=true" />
+</div>
 
 ### My Quotes:
 
