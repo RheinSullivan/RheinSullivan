@@ -109,13 +109,9 @@
 ### Github Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="github stats"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RheinSullivan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="github stats"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheinSullivan&theme=react&hide_border=true" alt="GitHub Streak" />
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+  ![](https://github-readme-stats.shion.dev/api?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://streak-stats.demolab.com/?user=RheinSullivan&theme=react&hide_border=true)
 </div>
 
 ### My Quotes:
