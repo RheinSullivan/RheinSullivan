@@ -1,6 +1,6 @@
 # Hi Assalamu'alaikum, What's up? 👋🏻
 
-```bash
+```text
 <Fullstack Developer> My name is, Muhammad Rizky Ramadhan Rhein Sullivan </Fullstack Developer>
 ```
 
@@ -106,13 +106,10 @@
 ###
 [![An image of @rheinsullivan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rheinsullivan)](https://holopin.io/@rheinsullivan)
 
-### Github Stats :
-
-<div align="center">
+### Github Stats:
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
   ![](https://github-readme-stats.shion.dev/api?username=RheinSullivan&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
   ![](https://streak-stats.demolab.com/?user=RheinSullivan&theme=react&hide_border=true)
-</div>
 
 ### My Quotes:
 
