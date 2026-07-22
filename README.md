@@ -103,9 +103,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
-[![An image of @rheinsullivan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rheinsullivan)](https://holopin.io/@rheinsullivan)
-
 ### Github Stats:
 
 <div align="center">
