@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Rakta.js | React Framework](https://raktajs.rheinsullivan.web.id/) & [Revenge The Fate Profile](https://revengethefate.rheinsullivan.web.id/).
 - 🌱 I’m currently learning **Java, J2EE, SpringBoot, Struts Framework, and become a better person**.
-- 👯 I’m looking to collaborate on **Adisty Nature Stone**.
+- 👯 I’m looking to collaborate on **Cooperative Karya Haryati Lestari**.
 - 👨‍💻 All of my projects are available at [Rhein Sullivan | Student and Junior Fullstack Developer](https://rheinsullivan.web.id/).
 - 📄 Know about my experiences [Rhein Sullivan VueJs](https://rheinsullivan.my.id/).
 - 📫 How to reach me **rheinsullivan06@gmail.com**.
