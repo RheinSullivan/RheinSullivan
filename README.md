@@ -6,7 +6,7 @@
 
 ### About Me :
 
-- 🔭 I’m currently working on [Rakta.js | React Framework](https://raktajs.rheinsullivan.web.id/) & [Revenge The Fate Profile](https://revengethefate.rheinsullivan.web.id/).
+- 🔭 I’m currently working on [Rakta.js | React Framework](https://raktajs.rheinsullivan.web.id/) & [Atsarul Mujahidin | JavaScript Islamic Icons Library](https://atsarulmujahidin.rheinsullivan.web.id/).
 - 🌱 I’m currently learning **Java, J2EE, SpringBoot, Struts Framework, and become a better person**.
 - 👯 I’m looking to collaborate on **Cooperative Karya Haryati Lestari**.
 - 👨‍💻 All of my projects are available at [Rhein Sullivan | Student and Junior Fullstack Developer](https://rheinsullivan.web.id/).
